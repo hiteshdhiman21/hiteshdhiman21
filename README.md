@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiteshdhiman21
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Competetive Programming
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently doing Competetive Programming
 
 
 <!---
