@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hiteshdhiman21
+- 👋 Hi, I’m Hitesh Dhiman.
 - 👀 I’m interested in Machine Learning and Web Development.
 - 🌱 I like problem solving thats why i do Competetive Programming.
 
